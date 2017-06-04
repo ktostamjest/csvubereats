@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS `nazwa_kierowcy` (
+	`id`	INTEGER PRIMARY KEY AUTOINCREMENT,
+	`imie`	TEXT NOT NULL,
+	`nazwisko`	TEXT NOT NULL,
+	`sposob_rozliczania`	INTEGER,
+	`tydzien`	TEXT,
+	`przycho_brutto`	INTEGER,
+	`oplata_uber`	INTEGER,
+	`VAT`	INTEGER,
+	`premie Uber`	INTEGER,
+	`wyplata`	INTEGER,
+	`wyplacilem`	INTEGER,
+	`niedoplata`	INTEGER,
+	`rach_um_zlec_netto`	INTEGER,
+	`zarobki_przed_pod`	INTEGER,
+	`zus_pit_um_zlec`	INTEGER,
+	`zarobek`	INTEGER,
+	`SUM_VAT`	INTEGER
+)
