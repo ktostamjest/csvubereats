@@ -9,19 +9,22 @@ Po krótce jak ma wyglądać nasz program, spiszmy to co ustaliliśmy na urodzin
 
 2. Uruchamiamy program.
 
-a) program przetwarza plik csv
-b) na podstawie danych z csv tworzy odpowiednie rekordy w pliku excel
-c) tworzymy kopie pliku do bazy danych ( baza dany sqlite )
+* program przetwarza plik csv
+* na podstawie danych z csv tworzy odpowiednie rekordy w pliku excel
+* tworzymy kopie pliku do bazy danych ( baza dany sqlite )
 
 3. Biblioteki
 
-a) tablib [link](http://docs.python-tablib.org/en/latest/)
-b) openpyxl [link](https://bitbucket.org/openpyxl/openpyxl/src)
-c) wszystko piszemy w pythonie > 3.3 - u siebie akutalnie mam 3.5.2.  
+* tablib [link](http://docs.python-tablib.org/en/latest/)
+
+* openpyxl [link](https://bitbucket.org/openpyxl/openpyxl/src)
+
+* wszystko piszemy w pythonie > 3.3 - u siebie akutalnie mam 3.5.2.  
 
 4. Na przyszłość:
 
-a) integracja z gdocs
-b) możliwość sterowania wypłatami w okienku
+* integracja z gdocs
+
+* możliwość sterowania wypłatami w okienku
 
 
